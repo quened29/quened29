@@ -8,7 +8,7 @@ I enjoy turning raw data into clean, structured, and meaningful information that
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 - SQL
 - Python
@@ -23,7 +23,7 @@ I enjoy turning raw data into clean, structured, and meaningful information that
 
 ---
 
-## 📊 Featured Project
+## Featured Project
 
 ### Customer ETL Pipeline
 
@@ -35,7 +35,7 @@ An end-to-end ETL project that extracts customer data from CSV, transforms and v
 
 ---
 
-## 🚀 Currently Learning
+## Currently Learning
 
 - Advanced SQL
 - Data Analysis
